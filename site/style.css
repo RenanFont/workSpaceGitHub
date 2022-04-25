@@ -1,0 +1,67 @@
+body{
+    font-family:Verdana;
+}
+
+
+.navbar {
+
+    background-color: #006BCA;
+    background-size: 10px;
+
+}
+
+.nav-item{
+    color: white;
+}
+
+
+.nav-link {
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+ 
+}
+.home{
+    
+    background-color: #ececec81;
+    padding-bottom: 20px;
+    color:#006BCA;
+    padding-top: 20px;
+}  
+ 
+.sobre{
+    
+    background-color: #006BCA;
+    font-style: ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+
+}
+
+.serviço{
+    
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#006BCA;
+
+}
+
+
+
+
+.margin{
+
+    margin-top: 10px;
+
+}
+
+.bg-footer{
+
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#ffffff;
+
+}
